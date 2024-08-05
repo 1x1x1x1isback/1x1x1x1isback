@@ -1,5 +1,5 @@
 <div id ="header" align="center">
-<img src="[https://pbs.twimg.com/media/GN0wgx3aQAAwO4l.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdumb-boss-fights.fandom.com%2Fwiki%2F1x1x1x1&psig=AOvVaw0JnmR-cQmbl9IMwUWmsvPZ&ust=1722933896804000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiTpo673YcDFQAAAAAdAAAAABAV](https://static.wikia.nocookie.net/dumb-boss-fights/images/7/7b/1x1x1x1.png/revision/latest?cb=20211114011137)">
+<img src="https://media.discordapp.net/attachments/1109233611875569814/1269940421979541545/QRKlvpCF1KwAAAAASUVORK5CYII.png?ex=66b1e3ae&is=66b0922e&hm=69a1b856a4e080643394f8f7b5ebc72bcd89a38c4b24f2de135511e0ca61c1df&=&format=webp&quality=lossless">
 
 
 [atabook](https://1x1x1x1.atabook.org)‎ ‎ ‎ ‎ ‎ ‎ ‎ [rentry](https://rentry.co/82jd)
